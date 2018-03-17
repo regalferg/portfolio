@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Crystal Collector",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/crystal.PNG",
     "url": "https://regalferg.github.io/week-4-game/",
     "Build": "Built with Vanilla JS",
     "github":"https://github.com/regalferg/week-4-game"

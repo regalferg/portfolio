@@ -9,14 +9,15 @@
   
   .Nav-header {
     background-color: #222;
-    height: 100px;
+    height: 75px;
     padding: 5px;
     color: grey;
    
   }
   
   .Nav-title {
-    font-size: 1.5em;
+    font-size: 1em;
+    color: white;
   }
   
   .Nav-intro {

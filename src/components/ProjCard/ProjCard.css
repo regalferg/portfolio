@@ -4,6 +4,7 @@
     background: fuchsia;
     color: white;
 }
-/* .card-img-top{
+img {
+    vertical-align: middle;
     height: 350px;
-} */
+}

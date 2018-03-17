@@ -3,7 +3,9 @@ import './App.css';
 import Nav from "../src/components/Nav";
 import projects from "./projects.json";
 import ProjCard from "../src/components/ProjCard";
-import {Grid, Col, Row, Carousel} from 'react-bootstrap';
+import {Grid, Col, Row, } from 'react-bootstrap';
+import Slider from "react-slick";
+
 
 class App extends Component {
 state ={
@@ -12,7 +14,15 @@ state ={
 
 
   render() {
-
+    const settings = {
+      dots: true,
+      infinite: false,
+      speed: 500,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      swipeToSlide: true,
+      mobileFirst: true,
+    };
 
 
     return (
@@ -22,16 +32,17 @@ state ={
         <Grid fluid id="content">
   <Row className="show-grid">
     <Col xs={12} md={12} lg={4}>
-    <Carousel
+    <Slider {...settings}>
+    {/* <Carousel
     slide={false}
     indicators={false}
-    >
+    > */}
     
     {this.state.projects.map(project =>(
      
     
-      <Carousel.Item key={project.id}>
-         
+      // <Carousel.Item key={project.id}>
+      <div key={project.id}>
       <ProjCard
       key={project.id}
       id={project.id}
@@ -45,11 +56,11 @@ state ={
 
       />
       
-      </Carousel.Item>
-     
+      {/* //</Carousel.Item> */}
+     </div>
     ))}
-   
-    </Carousel>
+   </Slider>
+    {/* </Carousel> */}
     </Col>
    
   </Row>
