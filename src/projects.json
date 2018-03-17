@@ -11,7 +11,7 @@
   {
     "id": 2,
     "project": "Totally Pauly Triva",
-    "image": "http://via.placeholder.com/350x100",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/trivia.PNG",
     "url":"https://regalferg.github.io/TriviaGame/",
     "Build": "Built with Vanilla JS with use of Intervals",
     "github":"https://github.com/regalferg/TriviaGame"
@@ -19,7 +19,7 @@
   {
     "id": 3,
     "project": "Giftastic",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/giftastic.PNG",
     "url": "https://regalferg.github.io/giftastic/",
     "Build": "Built with JQuery, Bootstrap and giphy API",
     "github":"https://github.com/regalferg/giftastic"
@@ -27,7 +27,7 @@
   {
     "id": 4,
     "project": "Train Schedule",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/train.PNG",
     "url": "https://regalferg.github.io/Train-Schedule/",
     "Build": "Built with JQuery and Firebase",
     "github":"https://github.com/regalferg/Train-Schedule"
@@ -35,7 +35,7 @@
   {
     "id": 5,
     "project": "Event Ready",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/projectone.PNG",
     "url": "https://regalferg.github.io/project-one/",
     "Build": "Built with JQuery, Ticketmaster API, Youtube API, and Google Maps(mobile) API.",
     "github":"https://github.com/regalferg/project-one"
@@ -51,7 +51,7 @@
   {
     "id": 7,
     "project": "Pagan Mingle",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/pagan.PNG",
     "url": "https://pagan-mingle.herokuapp.com/",
     "Build": "Built with JQuery,Bootstrap, and Node.js.",
     "github":"https://github.com/regalferg/friend-finder"
@@ -60,7 +60,7 @@
   {
     "id": 8,
     "project": "Web Scraper",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/scraper.PNG",
     "url": "http://mmo-scraper.herokuapp.com/",
     "Build": "Built with Handlebars, Mongoose, MongoDB, Cheerio, Axios, Node.js.",
     "github":"https://github.com/regalferg/mmo-scraper"
@@ -69,15 +69,15 @@
   {
     "id": 10,
     "project": "s0cial3r",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/socialer.PNG",
     "url": "http://s0cial3r-ferg.herokuapp.com",
     "Build": "Built with Handlebars, Sequelize, MySQL, Passport, Express, Discord.js, Node.js.",
     "github":"https://github.com/regalferg/s0cial3r"
   },
   {
     "id": 11,
-    "project": "Click-React",
-    "image": "http://via.placeholder.com/350x150",
+    "project": "Clicky-React",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/clicky.PNG",
     "url": "https://regalferg.github.io/clicky-react/",
     "Build": "Built with React.js",
     "github":"https://github.com/regalferg/clicky-react"
@@ -85,7 +85,7 @@
   {
     "id": 12,
     "project": "s0cial3r 2",
-    "image": "http://via.placeholder.com/350x150",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/socialer2.PNG",
     "url": "http://s0cial3r.herokuapp.com",
     "Build": "Built with Handlebars, Mongoose, MongoDB, Socket.io, Passport, Express, Twitch.js, Node.js, React.js.",
     "github":"https://github.com/joeman098/s0cial3r"
