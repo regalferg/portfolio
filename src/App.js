@@ -46,7 +46,7 @@ state ={
       <ProjCard
       key={project.id}
       id={project.id}
-      name={project.name}
+      project={project.project}
       image={project.image}
       url={project.url}
       Build={project.Build}

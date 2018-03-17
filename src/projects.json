@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Crystal Collector",
+    "project": "Crystal Collector",
     "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/crystal.PNG",
     "url": "https://regalferg.github.io/week-4-game/",
     "Build": "Built with Vanilla JS",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "Totally Pauly Triva",
+    "project": "Totally Pauly Triva",
     "image": "http://via.placeholder.com/350x100",
     "url":"https://regalferg.github.io/TriviaGame/",
     "Build": "Built with Vanilla JS with use of Intervals",
@@ -18,7 +18,7 @@
   },
   {
     "id": 3,
-    "name": "Giftastic",
+    "project": "Giftastic",
     "image": "http://via.placeholder.com/350x150",
     "url": "https://regalferg.github.io/giftastic/",
     "Build": "Built with JQuery, Bootstrap and giphy API",
@@ -26,7 +26,7 @@
   },
   {
     "id": 4,
-    "name": "Train Schedule",
+    "project": "Train Schedule",
     "image": "http://via.placeholder.com/350x150",
     "url": "https://regalferg.github.io/Train-Schedule/",
     "Build": "Built with JQuery and Firebase",
@@ -34,7 +34,7 @@
   },
   {
     "id": 5,
-    "name": "Event Ready",
+    "project": "Event Ready",
     "image": "http://via.placeholder.com/350x150",
     "url": "https://regalferg.github.io/project-one/",
     "Build": "Built with JQuery, Ticketmaster API, Youtube API, and Google Maps(mobile) API.",
@@ -42,15 +42,15 @@
   },
   {
     "id": 6,
-    "name": "Bamazon",
-    "image": "http://via.placeholder.com/350x150",
+    "project": "Bamazon",
+    "image": "https://raw.githubusercontent.com/regalferg/bamazon/master/images/buy_second.PNG",
     "url": "https://github.com/regalferg/bamazon",
     "Build": "Built with Node.js and MySQL.",
     "github":"https://github.com/regalferg/bamazon"
   },
   {
     "id": 7,
-    "name": "Pagan Mingle",
+    "project": "Pagan Mingle",
     "image": "http://via.placeholder.com/350x150",
     "url": "https://pagan-mingle.herokuapp.com/",
     "Build": "Built with JQuery,Bootstrap, and Node.js.",
@@ -59,7 +59,7 @@
 
   {
     "id": 8,
-    "name": "Web Scraper",
+    "project": "Web Scraper",
     "image": "http://via.placeholder.com/350x150",
     "url": "http://mmo-scraper.herokuapp.com/",
     "Build": "Built with Handlebars, Mongoose, MongoDB, Cheerio, Axios, Node.js.",
@@ -68,7 +68,7 @@
 
   {
     "id": 10,
-    "name": "s0cial3r",
+    "project": "s0cial3r",
     "image": "http://via.placeholder.com/350x150",
     "url": "http://s0cial3r-ferg.herokuapp.com",
     "Build": "Built with Handlebars, Sequelize, MySQL, Passport, Express, Discord.js, Node.js.",
@@ -76,7 +76,7 @@
   },
   {
     "id": 11,
-    "name": "Click-React",
+    "project": "Click-React",
     "image": "http://via.placeholder.com/350x150",
     "url": "https://regalferg.github.io/clicky-react/",
     "Build": "Built with React.js",
@@ -84,7 +84,7 @@
   },
   {
     "id": 12,
-    "name": "s0cial3r 2",
+    "project": "s0cial3r 2",
     "image": "http://via.placeholder.com/350x150",
     "url": "http://s0cial3r.herokuapp.com",
     "Build": "Built with Handlebars, Mongoose, MongoDB, Socket.io, Passport, Express, Twitch.js, Node.js, React.js.",

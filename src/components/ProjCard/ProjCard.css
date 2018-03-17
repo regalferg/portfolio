@@ -1,10 +1,13 @@
 .card{
     margin-top: 5px;
     margin-bottom: 15px;
-    background: fuchsia;
+    background:rgb(58, 64, 78);
     color: white;
 }
 img {
     vertical-align: middle;
     height: 350px;
+}
+.card-title, .card-text{
+    margin-left: 5px;
 }
