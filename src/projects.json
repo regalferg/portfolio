@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Crystal Collector",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://regalferg.github.io/week-4-game/",
+    "Build": "Built with Vanilla JS",
+    "github":"https://github.com/regalferg/week-4-game"
+   
+  },
+  {
+    "id": 2,
+    "name": "Totally Pauly Triva",
+    "image": "http://via.placeholder.com/350x100",
+    "url":"https://regalferg.github.io/TriviaGame/",
+    "Build": "Built with Vanilla JS with use of Intervals",
+    "github":"https://github.com/regalferg/TriviaGame"
+  },
+  {
+    "id": 3,
+    "name": "Giftastic",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://regalferg.github.io/giftastic/",
+    "Build": "Built with JQuery, Bootstrap and giphy API",
+    "github":"https://github.com/regalferg/giftastic"
+  },
+  {
+    "id": 4,
+    "name": "Train Schedule",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://regalferg.github.io/Train-Schedule/",
+    "Build": "Built with JQuery and Firebase",
+    "github":"https://github.com/regalferg/Train-Schedule"
+  },
+  {
+    "id": 5,
+    "name": "Event Ready",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://regalferg.github.io/project-one/",
+    "Build": "Built with JQuery, Ticketmaster API, Youtube API, and Google Maps(mobile) API.",
+    "github":"https://github.com/regalferg/project-one"
+  },
+  {
+    "id": 6,
+    "name": "Bamazon",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://github.com/regalferg/bamazon",
+    "Build": "Built with Node.js and MySQL.",
+    "github":"https://github.com/regalferg/bamazon"
+  },
+  {
+    "id": 7,
+    "name": "Pagan Mingle",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://pagan-mingle.herokuapp.com/",
+    "Build": "Built with JQuery,Bootstrap, and Node.js.",
+    "github":"https://github.com/regalferg/friend-finder"
+  },
+
+  {
+    "id": 8,
+    "name": "Web Scraper",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "http://mmo-scraper.herokuapp.com/",
+    "Build": "Built with Handlebars, Mongoose, MongoDB, Cheerio, Axios, Node.js.",
+    "github":"https://github.com/regalferg/mmo-scraper"
+  },
+
+  {
+    "id": 10,
+    "name": "s0cial3r",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "http://s0cial3r-ferg.herokuapp.com",
+    "Build": "Built with Handlebars, Sequelize, MySQL, Passport, Express, Discord.js, Node.js.",
+    "github":"https://github.com/regalferg/s0cial3r"
+  },
+  {
+    "id": 11,
+    "name": "Click-React",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "https://regalferg.github.io/clicky-react/",
+    "Build": "Built with React.js",
+    "github":"https://github.com/regalferg/clicky-react"
+  },
+  {
+    "id": 12,
+    "name": "s0cial3r 2",
+    "image": "http://via.placeholder.com/350x150",
+    "url": "http://s0cial3r.herokuapp.com",
+    "Build": "Built with Handlebars, Mongoose, MongoDB, Socket.io, Passport, Express, Twitch.js, Node.js, React.js.",
+    "github":"https://github.com/joeman098/s0cial3r"
+  }
+]
