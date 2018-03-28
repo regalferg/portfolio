@@ -11,3 +11,6 @@ body > #root > div {
 .carousel{
   margin-top: 15px;
 }
+.slick-arrow{
+  display: none !important;
+}

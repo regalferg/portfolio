@@ -3,6 +3,7 @@
     margin-bottom: 15px;
     background:rgb(58, 64, 78);
     color: white;
+    text-align:center;
 }
 img {
     vertical-align: middle;
@@ -10,4 +11,14 @@ img {
 }
 .card-title, .card-text{
     margin-left: 5px;
+}
+
+.linkItem{
+    text-align: center;
+   
+}
+.linkBtn{
+    background: rgb(58, 64, 78) !important;
+    color: white !important;
+    width: 100%;
 }

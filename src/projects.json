@@ -43,7 +43,7 @@
   {
     "id": 6,
     "project": "Bamazon",
-    "image": "https://raw.githubusercontent.com/regalferg/bamazon/master/images/buy_second.PNG",
+    "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/bamazon.PNG",
     "url": "https://github.com/regalferg/bamazon",
     "Build": "Built with Node.js and MySQL.",
     "github":"https://github.com/regalferg/bamazon"
@@ -53,7 +53,7 @@
     "project": "Pagan Mingle",
     "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/pagan.PNG",
     "url": "https://pagan-mingle.herokuapp.com/",
-    "Build": "Built with JQuery,Bootstrap, and Node.js.",
+    "Build": "Built with JQuery, Bootstrap, and Node.js.",
     "github":"https://github.com/regalferg/friend-finder"
   },
 
@@ -87,7 +87,7 @@
     "project": "s0cial3r 2",
     "image": "https://raw.githubusercontent.com/regalferg/portfolio/master/public/img/socialer2.PNG",
     "url": "http://s0cial3r.herokuapp.com",
-    "Build": "Built with Handlebars, Mongoose, MongoDB, Socket.io, Passport, Express, Twitch.js, Node.js, React.js.",
+    "Build": "Built with Mongoose, MongoDB, Socket.io, Passport, Express, Twitch.js, Node.js, React.js.",
     "github":"https://github.com/joeman098/s0cial3r"
   }
 ]

@@ -31,17 +31,13 @@ state ={
         <Nav> </Nav>
         <Grid fluid id="content">
   <Row className="show-grid">
-    <Col xs={12} md={12} lg={4}>
+    <Col xs={12} md={12} lg={12}>
     <Slider {...settings}>
-    {/* <Carousel
-    slide={false}
-    indicators={false}
-    > */}
+ 
     
     {this.state.projects.map(project =>(
      
     
-      // <Carousel.Item key={project.id}>
       <div key={project.id}>
       <ProjCard
       key={project.id}
@@ -52,15 +48,12 @@ state ={
       Build={project.Build}
       github={project.github}
 
-
-
       />
-      
-      {/* //</Carousel.Item> */}
+  
      </div>
     ))}
    </Slider>
-    {/* </Carousel> */}
+
     </Col>
    
   </Row>
